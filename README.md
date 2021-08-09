@@ -1,4 +1,4 @@
-# Fullstack boilerplate
+# The coolest bean
 
 ## Getting Started
 
